@@ -71,4 +71,4 @@ This second report provides a single, focused page designed to showcase more ins
 
 # Conclusion
 
-This updated dashboard (version 2) allows users to filter data to make informed decisions about their career paths, all in one page.
+The first dashboard allows users to slice, filter, and drill through data.The updated dashboard (version 2) allows users to filter data to make informed decisions about their career paths, all in one page.
