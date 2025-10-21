@@ -65,7 +65,7 @@ aggregations to derive key insights.
 
 ![Dashboard 2](/Images/project2.png)
 
-This second report provides a single, focused page designed to give job seekers more insights at their fingertips.
+This second report provides a single, focused page designed to showcase more insights.
 
 **🔗 [View Full Project 2 (README)](/Data_job2_v2/README.md)**
 
